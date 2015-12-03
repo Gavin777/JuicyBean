@@ -1,0 +1,13 @@
+package com.alpacagames.androidgames.juicy;
+
+import com.alpacagames.androidgames.framework.GameObject;
+
+public class Castle extends GameObject {
+    public static float CASTLE_WIDTH = 9f;
+    public static float CASTLE_HEIGHT = 1.5f;
+
+    public Castle(float x, float y) {
+        super(x, y, CASTLE_WIDTH, CASTLE_HEIGHT);
+    }
+
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.alpacagames.androidgames.juicy"
+      android:versionCode="6"
+      android:versionName="6.0">
+    <uses-permission android:name = "android.permission.INTERNET"/>
+    <uses-permission android:name = "android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-sdk android:minSdkVersion="9" />
+    <application android:icon="@drawable/icon" android:label= "JuicyBean">
+        <meta-data android:name = "com.google.android.gms.version"
+            android:value = "@integer/google_play_services_version" />
+        <activity android:name="com.alpacagames.androidgames.juicy.JuicyBean"
+                  android:label="JuicyBean" 
+                  
+                  android:screenOrientation="portrait"
+                  android:configChanges="keyboard|keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+		 
+    </application>
+
+  
+</manifest> 

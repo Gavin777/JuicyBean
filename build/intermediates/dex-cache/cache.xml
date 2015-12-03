@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gavin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-4be64e8ae09d6c4a78866d8fa2c8b7f7d5304321.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\classes-1b0204a265897df8b29c9efe6cb7cedef0f05bc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\classes-c252a8fb730669fc5013c1eb53743b8caf317272.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-4c4ec4f77cd9be2a327190a73ae4e75c0523138f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\classes-de6893aa8cbb70642e53bd1e07686b04ca68d603.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Gavin\Coding\JuicyBean1\app\build\intermediates\pre-dexed\release\classes-a0985f72b15d3b83d2504211349c53fa03519712.jar" />
+    </item>
+
+</items>
